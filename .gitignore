@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos generados por la compilacion
+out/
+target/
+build/
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales del sistema y del editor
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
