@@ -32,4 +32,8 @@ public class Profesor {
     public void setCD(CategoriaDocente CD) {
         this.CD = CD;
     }
+
+    public String mostrar(){
+        return "Nombre: " + nombre + " | Edad: " + edad + " | Categoria docente: " + CD;
+    }
 }
